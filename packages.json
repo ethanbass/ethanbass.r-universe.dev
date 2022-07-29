@@ -1,0 +1,14 @@
+[
+    {
+        "package": "chromatographR",
+        "url": "https://github.com/ethanbass/chromatographR"
+    },
+    {
+        "package": "chromConverter",
+        "url": "https://github.com/ethanbass/chromConverter"
+    },
+    {
+        "package": "VPdtw",
+        "url": "https://github.com/ethanbass/VPdtw",
+    }
+]
