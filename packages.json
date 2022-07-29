@@ -10,5 +10,9 @@
     {
         "package": "VPdtw",
         "url": "https://github.com/ethanbass/VPdtw",
+    },
+    {
+        "package": "entab",
+        "url": "https://github.com/ethanbass/entab",
     }
 ]
