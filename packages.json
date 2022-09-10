@@ -12,6 +12,10 @@
         "url": "https://github.com/ethanbass/VPdtw"
     },
     {
+        "package": "ShinyChromViewer",
+        "url": "https://github.com/ethanbass/ShinyChromViewer"
+    },
+    {
         "package": "entab",
         "url": "https://github.com/ethanbass/entab/tree/master/entab-r"
     }
