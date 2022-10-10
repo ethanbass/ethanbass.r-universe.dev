@@ -16,6 +16,10 @@
         "url": "https://github.com/ethanbass/ShinyChromViewer"
     },
     {
+        "package": "zerenebatchR",
+        "url": "https://github.com/ethanbass/zerenebatchr"
+    },
+    {
         "package": "entab",
         "url": "https://github.com/ethanbass/entab/tree/master/entab-r"
     }
