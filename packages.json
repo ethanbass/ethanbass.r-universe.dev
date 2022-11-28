@@ -16,6 +16,14 @@
         "url": "https://github.com/ethanbass/ShinyChromViewer"
     },
     {
+        "package": "ggtukey",
+        "url": "https://github.com/ethanbass/ggtukey"
+    },
+    {
+        "package": "msdialreadr",
+        "url": "https://github.com/ethanbass/msdialreadr"
+    },
+    {
         "package": "entab",
         "url": "https://github.com/ethanbass/entab/tree/master/entab-r"
     }
