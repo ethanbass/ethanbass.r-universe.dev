@@ -31,5 +31,9 @@
         "package": "entab",
         "url": "https://github.com/ethanbass/entab",
         "subdir": "entab-r"
+    },
+    {
+        "package": "r2zotero",
+        "url": "https://github.com/ethanbass/r2zotero"
     }
 ]
